@@ -1,0 +1,14 @@
+C:\Users\Dawid\Documents\Praca z laboratorium\Pracadomowa1DawidSzelag\Pracadomowa1DawidSzelag\obj\Debug\netcoreapp3.1\Pracadomowa1DawidSzelag.csproj.AssemblyReference.cache
+C:\Users\Dawid\Documents\Praca z laboratorium\Pracadomowa1DawidSzelag\Pracadomowa1DawidSzelag\obj\Debug\netcoreapp3.1\Pracadomowa1DawidSzelag.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dawid\Documents\Praca z laboratorium\Pracadomowa1DawidSzelag\Pracadomowa1DawidSzelag\obj\Debug\netcoreapp3.1\Pracadomowa1DawidSzelag.AssemblyInfoInputs.cache
+C:\Users\Dawid\Documents\Praca z laboratorium\Pracadomowa1DawidSzelag\Pracadomowa1DawidSzelag\obj\Debug\netcoreapp3.1\Pracadomowa1DawidSzelag.AssemblyInfo.cs
+C:\Users\Dawid\Documents\Praca z laboratorium\Pracadomowa1DawidSzelag\Pracadomowa1DawidSzelag\obj\Debug\netcoreapp3.1\Pracadomowa1DawidSzelag.csproj.CoreCompileInputs.cache
+C:\Users\Dawid\Documents\Praca z laboratorium\Pracadomowa1DawidSzelag\Pracadomowa1DawidSzelag\bin\Debug\netcoreapp3.1\Pracadomowa1DawidSzelag.exe
+C:\Users\Dawid\Documents\Praca z laboratorium\Pracadomowa1DawidSzelag\Pracadomowa1DawidSzelag\bin\Debug\netcoreapp3.1\Pracadomowa1DawidSzelag.deps.json
+C:\Users\Dawid\Documents\Praca z laboratorium\Pracadomowa1DawidSzelag\Pracadomowa1DawidSzelag\bin\Debug\netcoreapp3.1\Pracadomowa1DawidSzelag.runtimeconfig.json
+C:\Users\Dawid\Documents\Praca z laboratorium\Pracadomowa1DawidSzelag\Pracadomowa1DawidSzelag\bin\Debug\netcoreapp3.1\Pracadomowa1DawidSzelag.runtimeconfig.dev.json
+C:\Users\Dawid\Documents\Praca z laboratorium\Pracadomowa1DawidSzelag\Pracadomowa1DawidSzelag\bin\Debug\netcoreapp3.1\Pracadomowa1DawidSzelag.dll
+C:\Users\Dawid\Documents\Praca z laboratorium\Pracadomowa1DawidSzelag\Pracadomowa1DawidSzelag\bin\Debug\netcoreapp3.1\Pracadomowa1DawidSzelag.pdb
+C:\Users\Dawid\Documents\Praca z laboratorium\Pracadomowa1DawidSzelag\Pracadomowa1DawidSzelag\obj\Debug\netcoreapp3.1\Pracadomowa1DawidSzelag.dll
+C:\Users\Dawid\Documents\Praca z laboratorium\Pracadomowa1DawidSzelag\Pracadomowa1DawidSzelag\obj\Debug\netcoreapp3.1\Pracadomowa1DawidSzelag.pdb
+C:\Users\Dawid\Documents\Praca z laboratorium\Pracadomowa1DawidSzelag\Pracadomowa1DawidSzelag\obj\Debug\netcoreapp3.1\Pracadomowa1DawidSzelag.genruntimeconfig.cache
