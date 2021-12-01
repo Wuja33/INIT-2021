@@ -1,0 +1,28 @@
+C:\Users\Dawid\Documents\Praca z laboratorium\Zadaniedomowe3\Zadaniedomowe3\bin\Debug\netcoreapp3.1\Zadaniedomowe3.exe
+C:\Users\Dawid\Documents\Praca z laboratorium\Zadaniedomowe3\Zadaniedomowe3\bin\Debug\netcoreapp3.1\Zadaniedomowe3.deps.json
+C:\Users\Dawid\Documents\Praca z laboratorium\Zadaniedomowe3\Zadaniedomowe3\bin\Debug\netcoreapp3.1\Zadaniedomowe3.runtimeconfig.json
+C:\Users\Dawid\Documents\Praca z laboratorium\Zadaniedomowe3\Zadaniedomowe3\bin\Debug\netcoreapp3.1\Zadaniedomowe3.runtimeconfig.dev.json
+C:\Users\Dawid\Documents\Praca z laboratorium\Zadaniedomowe3\Zadaniedomowe3\bin\Debug\netcoreapp3.1\Zadaniedomowe3.dll
+C:\Users\Dawid\Documents\Praca z laboratorium\Zadaniedomowe3\Zadaniedomowe3\bin\Debug\netcoreapp3.1\Zadaniedomowe3.pdb
+C:\Users\Dawid\Documents\Praca z laboratorium\Zadaniedomowe3\Zadaniedomowe3\obj\Debug\netcoreapp3.1\Zadaniedomowe3.csproj.AssemblyReference.cache
+C:\Users\Dawid\Documents\Praca z laboratorium\Zadaniedomowe3\Zadaniedomowe3\obj\Debug\netcoreapp3.1\Zadaniedomowe3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dawid\Documents\Praca z laboratorium\Zadaniedomowe3\Zadaniedomowe3\obj\Debug\netcoreapp3.1\Zadaniedomowe3.AssemblyInfoInputs.cache
+C:\Users\Dawid\Documents\Praca z laboratorium\Zadaniedomowe3\Zadaniedomowe3\obj\Debug\netcoreapp3.1\Zadaniedomowe3.AssemblyInfo.cs
+C:\Users\Dawid\Documents\Praca z laboratorium\Zadaniedomowe3\Zadaniedomowe3\obj\Debug\netcoreapp3.1\Zadaniedomowe3.csproj.CoreCompileInputs.cache
+C:\Users\Dawid\Documents\Praca z laboratorium\Zadaniedomowe3\Zadaniedomowe3\obj\Debug\netcoreapp3.1\Zadaniedomowe3.dll
+C:\Users\Dawid\Documents\Praca z laboratorium\Zadaniedomowe3\Zadaniedomowe3\obj\Debug\netcoreapp3.1\Zadaniedomowe3.pdb
+C:\Users\Dawid\Documents\Praca z laboratorium\Zadaniedomowe3\Zadaniedomowe3\obj\Debug\netcoreapp3.1\Zadaniedomowe3.genruntimeconfig.cache
+C:\Users\Dawid\Documents\Praca z laboratorium\INIT-2021\Zadania domowe\Zadaniedomowe3\Zadaniedomowe3\bin\Debug\netcoreapp3.1\Zadaniedomowe3.exe
+C:\Users\Dawid\Documents\Praca z laboratorium\INIT-2021\Zadania domowe\Zadaniedomowe3\Zadaniedomowe3\bin\Debug\netcoreapp3.1\Zadaniedomowe3.deps.json
+C:\Users\Dawid\Documents\Praca z laboratorium\INIT-2021\Zadania domowe\Zadaniedomowe3\Zadaniedomowe3\bin\Debug\netcoreapp3.1\Zadaniedomowe3.runtimeconfig.json
+C:\Users\Dawid\Documents\Praca z laboratorium\INIT-2021\Zadania domowe\Zadaniedomowe3\Zadaniedomowe3\bin\Debug\netcoreapp3.1\Zadaniedomowe3.runtimeconfig.dev.json
+C:\Users\Dawid\Documents\Praca z laboratorium\INIT-2021\Zadania domowe\Zadaniedomowe3\Zadaniedomowe3\bin\Debug\netcoreapp3.1\Zadaniedomowe3.dll
+C:\Users\Dawid\Documents\Praca z laboratorium\INIT-2021\Zadania domowe\Zadaniedomowe3\Zadaniedomowe3\bin\Debug\netcoreapp3.1\Zadaniedomowe3.pdb
+C:\Users\Dawid\Documents\Praca z laboratorium\INIT-2021\Zadania domowe\Zadaniedomowe3\Zadaniedomowe3\obj\Debug\netcoreapp3.1\Zadaniedomowe3.csproj.AssemblyReference.cache
+C:\Users\Dawid\Documents\Praca z laboratorium\INIT-2021\Zadania domowe\Zadaniedomowe3\Zadaniedomowe3\obj\Debug\netcoreapp3.1\Zadaniedomowe3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dawid\Documents\Praca z laboratorium\INIT-2021\Zadania domowe\Zadaniedomowe3\Zadaniedomowe3\obj\Debug\netcoreapp3.1\Zadaniedomowe3.AssemblyInfoInputs.cache
+C:\Users\Dawid\Documents\Praca z laboratorium\INIT-2021\Zadania domowe\Zadaniedomowe3\Zadaniedomowe3\obj\Debug\netcoreapp3.1\Zadaniedomowe3.AssemblyInfo.cs
+C:\Users\Dawid\Documents\Praca z laboratorium\INIT-2021\Zadania domowe\Zadaniedomowe3\Zadaniedomowe3\obj\Debug\netcoreapp3.1\Zadaniedomowe3.csproj.CoreCompileInputs.cache
+C:\Users\Dawid\Documents\Praca z laboratorium\INIT-2021\Zadania domowe\Zadaniedomowe3\Zadaniedomowe3\obj\Debug\netcoreapp3.1\Zadaniedomowe3.dll
+C:\Users\Dawid\Documents\Praca z laboratorium\INIT-2021\Zadania domowe\Zadaniedomowe3\Zadaniedomowe3\obj\Debug\netcoreapp3.1\Zadaniedomowe3.pdb
+C:\Users\Dawid\Documents\Praca z laboratorium\INIT-2021\Zadania domowe\Zadaniedomowe3\Zadaniedomowe3\obj\Debug\netcoreapp3.1\Zadaniedomowe3.genruntimeconfig.cache

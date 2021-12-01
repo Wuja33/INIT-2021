@@ -1,0 +1,14 @@
+C:\Users\Dawid\Documents\Praca z laboratorium\INIT-2021\Laboratorium3\Laboratorium3\bin\Debug\netcoreapp3.1\Laboratorium3.exe
+C:\Users\Dawid\Documents\Praca z laboratorium\INIT-2021\Laboratorium3\Laboratorium3\bin\Debug\netcoreapp3.1\Laboratorium3.deps.json
+C:\Users\Dawid\Documents\Praca z laboratorium\INIT-2021\Laboratorium3\Laboratorium3\bin\Debug\netcoreapp3.1\Laboratorium3.runtimeconfig.json
+C:\Users\Dawid\Documents\Praca z laboratorium\INIT-2021\Laboratorium3\Laboratorium3\bin\Debug\netcoreapp3.1\Laboratorium3.runtimeconfig.dev.json
+C:\Users\Dawid\Documents\Praca z laboratorium\INIT-2021\Laboratorium3\Laboratorium3\bin\Debug\netcoreapp3.1\Laboratorium3.dll
+C:\Users\Dawid\Documents\Praca z laboratorium\INIT-2021\Laboratorium3\Laboratorium3\bin\Debug\netcoreapp3.1\Laboratorium3.pdb
+C:\Users\Dawid\Documents\Praca z laboratorium\INIT-2021\Laboratorium3\Laboratorium3\obj\Debug\netcoreapp3.1\Laboratorium3.csproj.AssemblyReference.cache
+C:\Users\Dawid\Documents\Praca z laboratorium\INIT-2021\Laboratorium3\Laboratorium3\obj\Debug\netcoreapp3.1\Laboratorium3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dawid\Documents\Praca z laboratorium\INIT-2021\Laboratorium3\Laboratorium3\obj\Debug\netcoreapp3.1\Laboratorium3.AssemblyInfoInputs.cache
+C:\Users\Dawid\Documents\Praca z laboratorium\INIT-2021\Laboratorium3\Laboratorium3\obj\Debug\netcoreapp3.1\Laboratorium3.AssemblyInfo.cs
+C:\Users\Dawid\Documents\Praca z laboratorium\INIT-2021\Laboratorium3\Laboratorium3\obj\Debug\netcoreapp3.1\Laboratorium3.csproj.CoreCompileInputs.cache
+C:\Users\Dawid\Documents\Praca z laboratorium\INIT-2021\Laboratorium3\Laboratorium3\obj\Debug\netcoreapp3.1\Laboratorium3.dll
+C:\Users\Dawid\Documents\Praca z laboratorium\INIT-2021\Laboratorium3\Laboratorium3\obj\Debug\netcoreapp3.1\Laboratorium3.pdb
+C:\Users\Dawid\Documents\Praca z laboratorium\INIT-2021\Laboratorium3\Laboratorium3\obj\Debug\netcoreapp3.1\Laboratorium3.genruntimeconfig.cache
